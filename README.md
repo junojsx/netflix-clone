@@ -5,7 +5,10 @@ For my second GA Project, I decided to build a fullstack app that tracks the art
 
 # Deployed Link: 
 [DupeFlix](https://dupeflix.vercel.app/auth)
-
+#Test Account
+UserName: chippymeow
+Email:chips@meow.com
+Password: chippymeow
 
 ## As a user, I want to be able to:
 1. Search different beers and read their description.
